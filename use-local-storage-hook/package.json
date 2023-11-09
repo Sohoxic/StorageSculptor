@@ -1,0 +1,15 @@
+{
+  "name": "use-local-storage-hook-simply",
+  "version": "1.0.0",
+  "description": "StorageSculptor is a custom React hook to simplify the use of the Local Storage API with React's state management system. <br> ### Official published site: https://www.npmjs.com/package/use-local-storage-hook-simplified",
+  "main": "root.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "local-storage",
+    "custom-hook"
+  ],
+  "author": "Soham Sarkar",
+  "license": "ISC"
+}
