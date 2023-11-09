@@ -1,18 +1,18 @@
 #  StorageSculptor: Crafting Convenience with useLocalStorage
 StorageSculptor is a custom React hook to simplify the use of the Local Storage API with React's state management system.
 <br>
-### Official published site: https://www.npmjs.com/package/use-local-storage-hook-simplified
+### Official published site: https://www.npmjs.com/package/use-local-storage-hook-simply
 
 ## Installation:
 Before using the hook, ensure that you've installed the package:
 ```
-    npm install use-local-storage-hook-simplified
+    npm install use-local-storage-hook-simply
 
 ```
 
 ## Usage
 ```
-import useLocalStorage from 'use-local-storage-hook-simplified';
+import useLocalStorage from 'use-local-storage-hook-simply';
 
 ```
 
@@ -35,7 +35,7 @@ import useLocalStorage from 'use-local-storage-hook-simplified';
 
 ```
 import React from 'react';
-import useLocalStorage from 'use-local-storage-hook';
+import useLocalStorage from 'use-local-storage-hook-simply';
 
 function App() {
   const [name, setName] = useLocalStorage('name', 'your_name');
